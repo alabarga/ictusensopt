@@ -10,6 +10,8 @@ database.
 
 Data: http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD007666
 
+## Additional datasets
+
 Machine Learning Analysis of the Cerebrovascular Thrombi Proteome in Human Ischemic Stroke: An Exploratory Study [pubmed](https://pubmed.ncbi.nlm.nih.gov/33240201/)
 
 > The resulting peptide samples were analyzed online using Q- Exactive HF mass spectrometer coupled with an Ultimate 3000 RSLC (Thermo Fisher Scientific) fitted with a stainless-steel emitter (Thermo Fisher Scientific). Spectra were acquired with Xcalibur software (v4.1 Thermo Fisher Scientific). MS/MS analyses were performed in a data-dependent mode with standard settings. MS data analysis was performed using the MaxQuant software with default settings (v1.5.5.1)
