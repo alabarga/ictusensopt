@@ -24,4 +24,6 @@ Potential Biomarkers of Acute Ischemic Stroke Etiology Revealed by Mass Spectrom
 tandem mass spectrometry (LC-MS/MS). MaxQuant v1.5.2.8 and Perseus v.1.6.15.0
 were used for bioinformatics analysis.
 
-Data: http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD031477
+Data: 
+  - http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD031477
+  - https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=40990ab31c384c87b5ce98286af51d6a
