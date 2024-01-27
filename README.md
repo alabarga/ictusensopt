@@ -1,5 +1,8 @@
 ## ICTUSENSOPT
 
+Stroke is a devastating condition that leads to significant morbidity and mortality worldwide. To enhance our understanding of stroke pathophysiology and improve patient outcomes, it is crucial to explore high-throughput omics approaches and integrate multi-omics data. In this study, we propose a graph-based integrative approach to identify stroke-related gene expression changes using blood samples from ischemic stroke patients. Our goal is to discover biomarkers that can aid in the diagnosis, etiological classification, and management of stroke.
+
+
 
 ### References
 
