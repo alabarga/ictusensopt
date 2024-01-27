@@ -1,9 +1,5 @@
-# Table of contents
-* [Project description](#Project-description)
-* [Setup](#setup)
-* [Run](#run)
+## Benchmarking
 
-# Project description
 Build reproduciple pipleline of comparative analysis of multi-omics biomarker discovery tools
 
 - <a href="https://www.embopress.org/doi/pdf/10.15252/msb.20178124"> MOFA</a> (2018, Mol. Sys. Biol.)  <br>
