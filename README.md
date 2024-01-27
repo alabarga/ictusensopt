@@ -2,6 +2,8 @@
 
 Stroke is a devastating condition that leads to significant morbidity and mortality worldwide. To enhance our understanding of stroke pathophysiology and improve patient outcomes, it is crucial to explore high-throughput omics approaches and integrate multi-omics data. In this study, we propose a graph-based integrative approach to identify stroke-related gene expression changes using blood samples from ischemic stroke patients. Our goal is to discover biomarkers that can aid in the diagnosis, etiological classification, and management of stroke.
 
+![graphical_abstract](https://github.com/alabarga/ictusensopt/assets/166339/32e2a4bb-a33c-44c8-8447-079b1b3ff9cc)
+
 ### References
 
 - Ostolaza, A.; Blanco-Luquin, I.; Urdánoz-Casado, A.; Rubio, I.; **Labarga, A.**; Zandio, B.; Roldán, M.; Martínez-Cascales, J.; Mayor, S.; Herrera, M.; et al. Circular RNA Expression Profile in Blood According to Ischemic Stroke Etiology. Cell Biosci 2020, 10, 34, [doi:10.1186/s13578-020-00394-3 ](https://doi.org/10.1186/s13578-020-00394-3).
