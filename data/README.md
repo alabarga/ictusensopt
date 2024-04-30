@@ -4,6 +4,7 @@
 - miRNA
 - circRNA
 - Methylation
+- Proteomics
 
 ## GEO Platforms
 
