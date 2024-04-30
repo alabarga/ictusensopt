@@ -10,15 +10,15 @@ Build reproduciple pipleline of comparative analysis of multi-omics biomarker di
   Multi-omics biomarker discovery tool based on multi-layer graph attention network
 
 ### Setup
-#### Build docker image
-~~~
-docker build --tag biomarker_discovery:0.0.1 .
-~~~
+#### Get docker image
+
+https://hub.docker.com/r/alabarga/biomarker-discovery-benchmark
+
 #### Install workflow manager: Nextflow
 
 https://www.nextflow.io/docs/latest/getstarted.html#installation
 
 #### Run
 ~~~
-nextflow run run_benchmark.nf -c comparison.config -with-docker biomarker_discovery:0.0.1
+nextflow run run_benchmark.nf -c comparison.config -with-docker alabarga/biomarker-discovery-benchmark:0.0.1
 ~~~
