@@ -1,9 +1,9 @@
 ## Data
 
-- mRNA
-- miRNA
-- circRNA
-- Methylation
+- mRNA: https://zenodo.org/records/11094170/files/mRNA.csv
+- miRNA: https://zenodo.org/records/11094170/files/miRNA.csv
+- circRNA : https://zenodo.org/records/11094170/files/circRNA.csv
+- Methylation: https://zenodo.org/records/11094170/files/Methylation.csv
 - Proteomics: http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD007666
 
 ## GEO Platforms
